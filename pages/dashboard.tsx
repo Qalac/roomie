@@ -1,7 +1,7 @@
 function dashboard(){ 
     return(
       <div>
-        dashboard Page
+        dashboard Page is working fine 👋
       </div>
     )
   }
